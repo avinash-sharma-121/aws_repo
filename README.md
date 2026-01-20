@@ -1,5 +1,9 @@
-# aws_repo
-AWS learning
+# AWS Cloud Learning Status
+
+## Learning Topic:- 
+
+- API gatway testing with Lambda and for security using WAF -> Completed
+- VPC endpoint with S3 -> In progress
 
 ## Learning Resources
 
