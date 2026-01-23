@@ -3,7 +3,10 @@
 ## Learning Topic:- 
 
 - API gatway testing with Lambda and for security using WAF -> Completed
-- VPC endpoint with S3 -> In progress
+- VPC endpoint with S3 -> Completed
+- Application Load Balancer path based routing -> Completed
+- Application Load Balancer host based routing -> In progress
+
 
 ## Learning Resources
 
